@@ -1,0 +1,6 @@
+print("Lessthan",10<5)
+print("greaterthan",10>5)
+print("lessthan equalto",10<=10)
+print("graterthan equalto",10>=-10)
+print("equalto",10==8)
+print("not equalto",10!=9)

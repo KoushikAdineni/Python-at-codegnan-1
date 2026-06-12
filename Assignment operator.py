@@ -1,0 +1,22 @@
+#Assignment Operator
+a=12
+a+=2
+print(a)
+b=10
+b-=1
+print(b)
+c=5
+c*=3
+print(c)
+d=6
+d/=3
+print(d)
+e=7
+e%=4
+print(e)
+f=8
+f//=5
+print(f)
+g=5
+g**=3
+print(g)
